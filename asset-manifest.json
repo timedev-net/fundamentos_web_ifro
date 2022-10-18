@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/fundamentos_web_ifro/static/css/main.ec196cb2.css",
+    "main.js": "/fundamentos_web_ifro/static/js/main.494d2c6f.js",
+    "static/media/logo.svg": "/fundamentos_web_ifro/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/fundamentos_web_ifro/index.html",
+    "main.ec196cb2.css.map": "/fundamentos_web_ifro/static/css/main.ec196cb2.css.map",
+    "main.494d2c6f.js.map": "/fundamentos_web_ifro/static/js/main.494d2c6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec196cb2.css",
+    "static/js/main.494d2c6f.js"
+  ]
+}

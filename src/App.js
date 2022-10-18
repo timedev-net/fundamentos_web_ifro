@@ -21,7 +21,6 @@ function App() {
       if (error) alert("Usuário não encontrado!");
     }
   };
-  // console.log(watch("github"));
 
   return !data ? (
     <div className="App-header">
@@ -65,7 +64,6 @@ function App() {
         className="App-link"
         href="https://docs.google.com/forms/d/e/1FAIpQLSfhPSSuCXRZFAoxf4EZDmRoCZVsreYg8uDeLfZwz0x9cTt8pQ/viewform"
         target="_blank"
-        rel="noopener noreferrer"
       >
         Aprenda React
       </a>

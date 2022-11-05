@@ -65,8 +65,8 @@ export default () => {
       </button>
       <div className="card">
       <img src={data.avatar_url} alt="foto perfil" className="foto"/>
-        <h3>{data.name}</h3>
-        <p>{data.bio}</p>
+        <h1>{data.name}</h1>
+        <p style={{textIndent: "5ch", lineHeight: "3ch"}}>{data.bio}</p>
         <table>
           <tr><td>Github: <a className="App-link" href={data.html_url} target="_blank">{data.html_url}</a></td></tr>
           <tr><td>Linkedin: <a className="App-link" href={data.blog} target="_blank">{data.blog}</a></td></tr>
@@ -83,4 +83,4 @@ export default () => {
     </div>
   );
 }
- 
+  

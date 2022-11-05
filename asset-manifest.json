@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/fundamentos_web_ifro/static/css/main.ec5ea124.css",
-    "main.js": "/fundamentos_web_ifro/static/js/main.2e7a5f52.js",
+    "main.css": "/fundamentos_web_ifro/static/css/main.49bae329.css",
+    "main.js": "/fundamentos_web_ifro/static/js/main.b4c2fca6.js",
     "static/media/logo.svg": "/fundamentos_web_ifro/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/fundamentos_web_ifro/index.html",
-    "main.ec5ea124.css.map": "/fundamentos_web_ifro/static/css/main.ec5ea124.css.map",
-    "main.2e7a5f52.js.map": "/fundamentos_web_ifro/static/js/main.2e7a5f52.js.map"
+    "main.49bae329.css.map": "/fundamentos_web_ifro/static/css/main.49bae329.css.map",
+    "main.b4c2fca6.js.map": "/fundamentos_web_ifro/static/js/main.b4c2fca6.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec5ea124.css",
-    "static/js/main.2e7a5f52.js"
+    "static/css/main.49bae329.css",
+    "static/js/main.b4c2fca6.js"
   ]
 }
